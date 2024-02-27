@@ -1,0 +1,28 @@
+[
+  {
+    "name": "MIMS",
+    "patientCount": 150,
+    "location": "PALAKKAD"  
+  },
+  {
+    "name": "AHALYA",
+    "patientCount": 150,
+    "location": "KOTTAYAM"
+  },
+  {
+    "name": "RCE hospital",
+    "patientCount": 200,
+    "location": "TRIVANDRUM"
+  },
+  {
+    "name": "CARE PLUS",
+    "patientCount": 120,
+    "location": "ERNAMKULAM"
+  },
+  {
+    "name": "New Hospital",
+    "patientCount": 100,
+    "location": " THRISSUR"
+    
+  }
+]
